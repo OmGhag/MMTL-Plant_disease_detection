@@ -2,7 +2,11 @@ numpy
 pandas
 matplotlib
 keras
+sklearn
 tensorflow
 cv2
 glob
 os
+random
+imgaug
+sci-kit
